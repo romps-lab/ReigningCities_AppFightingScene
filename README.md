@@ -1,3 +1,3 @@
 # ReigningCities_AppFightingScene
 
-This contains code as demonstrated by Joynuye
+This contains code to create multiplayer fighting scene for Reigning Cities.
